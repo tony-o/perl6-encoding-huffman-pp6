@@ -1,7 +1,7 @@
 {
   "perl"        : "6.*",
   "name"        : "Encoding::Huffman::PP6",
-  "version"     : "0.0.2",
+  "version"     : "0.0.3",
   "description" : "Huffman Encoding with pure perl6",
   "auth"        : "zef:tony-o",
   "depends"     : [ ],

@@ -1,7 +1,5 @@
 # Huffman Encoding in pure perl6
 
-[![Build Status](https://travis-ci.org/tony-o/perl6-encoding-huffman-pp6.svg)](https://travis-ci.org/tony-o/perl6-encoding-huffman-pp6)
-
 What a joy.
 
 ## Subs provided + signatures
